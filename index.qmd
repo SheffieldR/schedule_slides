@@ -38,7 +38,7 @@ project:
 ::: {.column width="70%"}
 + **17:30-17:40** Meet and Greet/Networking
 + **17:40-17:55** _Plotly_ - [Grace Accad](mailto:g.accad@sheffield.ac.uk)
-+ **17:55-18:45** _Quarto for Slides via GitHub Pages_ - [Neil Shephard](mailto:n.shephard@sheffield.ac.uk)
++ **17:55-18:45** [_Quarto for Slides_](https://ns-rse.github.io/SheffieldR-quarto-for-slides) - [Neil Shephard](mailto:n.shephard@sheffield.ac.uk)
 + **18:45-19:00** _Q&A_ - ask for help if you've a problem
 :::
 ::::
