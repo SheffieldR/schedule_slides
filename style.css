@@ -1,0 +1,6 @@
+h1.title{
+  background-image: url(img/SheffieldR_hex.png), url(img/OSC_Sheffield.png);
+  background-repeat: no-repeat;
+  background-position: left, right;
+  background-size: 100px, 200px;
+}
