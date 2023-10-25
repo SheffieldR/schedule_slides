@@ -17,7 +17,7 @@ format:
     # embed-resources: true
     # standalone: true
 css: style.css
-footer: "**Slides** : [**sheffieldr.github.io/sheffieldr-schedule**](https://sheffieldr.github.io/sheffieldr-schedule)"
+footer: "**Slides** : [**sheffieldr.github.io/posts/2023-10-26-oct-meetup**](https://sheffieldr.github.io/posts/2023-10-26-oct-meetup/)"
 project:
   preview:
     port: 7864
@@ -40,7 +40,6 @@ project:
 + **18:45-19:00** _Q&A_ - ask for help if you've a problem
 :::
 ::::
-[ns-rse.github.io/quarto-revealjs-template](https://ns-rse.github.io/quarto-revealjs-template)
 
 
 ## Q&A
