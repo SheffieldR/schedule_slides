@@ -348,12 +348,35 @@
 <ul>
 <li><strong>17:30-17:40</strong> Meet and Greet/Networking</li>
 <li><strong>17:40-17:55</strong> <em>Plotly</em> - <a href="mailto:g.accad@sheffield.ac.uk">Grace Accad</a></li>
-<li><strong>17:55-18:45</strong> <em>Quarto for Slides via GitHub Pages</em> - <a href="mailto:n.shephard@sheffield.ac.uk">Neil Shephard</a></li>
+<li><strong>17:55-18:45</strong> <a href="https://ns-rse.github.io/SheffieldR-quarto-for-slides"><em>Quarto for Slides</em></a> - <a href="mailto:n.shephard@sheffield.ac.uk">Neil Shephard</a></li>
 <li><strong>18:45-19:00</strong> <em>Q&amp;A</em> - ask for help if you’ve a problem</li>
 </ul>
 </div>
 </div>
 <p><a href="https://ns-rse.github.io/quarto-revealjs-template">ns-rse.github.io/quarto-revealjs-template</a></p>
+</section>
+<section id="qa" class="slide level2">
+<h2>Q&amp;A</h2>
+<p><br> Thank you for attending this session. <br> <br> <br> Feel free to ask anything; no question is too small or too big. Your curiosity and engagement make this session even more valuable. We’re eager to assist you.</p>
+</section>
+<section id="qr-code" class="slide level2">
+<h2>QR Code</h2>
+<div style="display: flex; align-items: center; justify-content: center;">
+<div style="text-align: center; flex: 1;">
+<pre><code>If you're interested in giving a talk, please fill the following form:</code></pre>
+</div>
+<div style="text-align: center; flex: 1;">
+<pre><code>To help improve and tailor future events to your needs, your feedback is     appreciated:</code></pre>
+</div>
+</div>
+<div style="display: flex; justify-content: center;">
+<div style="text-align: center; flex: 2;">
+<img data-src="img/qr_code_volunteer_form.png">
+</div>
+<div style="text-align: center; flex: 2;">
+<img data-src="img/qr_code_feedback_form.png">
+</div>
+</div>
 
 <div class="footer footer-default">
 <p><strong>Slides</strong> : <a href="https://sheffieldr.github.io/sheffieldr-schedule"><strong>sheffieldr.github.io/sheffieldr-schedule</strong></a></p>
@@ -370,7 +393,6 @@
   <script src="site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
   <script src="site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
   <script src="site_libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
-  <script src="site_libs/revealjs/plugin/reveal-confetti/confetti.js"></script>
   <script src="site_libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
@@ -394,7 +416,6 @@
 'autoAnimateUnmatched': true,
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
 'chalkboard': {"buttons":true},
-'confetti': {"particleCount":50,"angle":90,"spread":45,"startVelocity":45,"decay":0.9,"gravity":1,"drift":0,"ticks":200,"colors":null,"shapes":null,"scalar":1,"zIndex":100,"disableForReducedMotion":false},
 'smaller': false,
  
         // Display controls in the bottom right corner
@@ -565,7 +586,7 @@
         },
 
         // reveal.js plugins
-        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, RevealChalkboard, RevealConfetti, QuartoSupport,
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, RevealChalkboard, QuartoSupport,
 
           RevealMath,
           RevealNotes,
