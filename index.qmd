@@ -43,35 +43,26 @@ project:
 [ns-rse.github.io/quarto-revealjs-template](https://ns-rse.github.io/quarto-revealjs-template)
 
 
----
-
 ## Q&A
 
-<br>
-Thank you for attending this session.
+Thank you for attending this session. :pray:
 <br>
 <br>
 <br>
 Feel free to ask anything; no question is too small or too big. Your curiosity and engagement make this session even more valuable. We're eager to assist you.
 
----
 
 ## QR Code
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="text-align: center; flex: 1;">
-    If you're interested in giving a talk, please fill the following form:
-  </div>
-  <div style="text-align: center; flex: 1;">
-    To help improve and tailor future events to your needs, your feedback is     appreciated:
-  </div>
-</div>
-
-<div style="display: flex; justify-content: center;">
-  <div style="text-align: center; flex: 2;">
-![](img/qr_code_volunteer_form.png)
-  </div>
-  <div style="text-align: center; flex: 2;">
-![](img/qr_code_feedback_form.png)
-  </div>
-</div>
+:::: {.columns}
+::: {.column width="50%"}
+If you're interested in giving a talk, please fill the following form:
+{{< qrcode
+https://docs.google.com/forms/d/e/1FAIpQLSfjbSGzIHs71YCxD_2knDg126q7m0ywFwF7rspqyVpmZolxpg/viewform?usp=sf_link qr1 width=400 height=400 >}}
+:::
+::: {.column width="50%"}
+To help improve and tailor future events to your needs, your feedback is appreciated:
+{{< qrcode
+https://docs.google.com/forms/d/e/1FAIpQLSfC98qayP3IQD73_gV00GmoVlK-jd1WV8Co1M7FCVBKo4F-tg/viewform?usp=sf_link qr2 width=400 height=400 >}}
+:::
+::::
