@@ -16,7 +16,7 @@ format:
     chalkboard: true
     # embed-resources: true
     # standalone: true
-
+css: style.css
 footer: "**Slides** : [**sheffieldr.github.io/sheffieldr-schedule**](https://sheffieldr.github.io/sheffieldr-schedule)"
 project:
   preview:
@@ -45,10 +45,10 @@ project:
 
 ---
 
-## Q&A 
+## Q&A
 
 <br>
-Thank you for attending this session. 
+Thank you for attending this session.
 <br>
 <br>
 <br>
@@ -60,10 +60,10 @@ Feel free to ask anything; no question is too small or too big. Your curiosity a
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="text-align: center; flex: 1;">
-    If you're interested in giving a talk, please fill the following form: 
+    If you're interested in giving a talk, please fill the following form:
   </div>
   <div style="text-align: center; flex: 1;">
-    To help improve and tailor future events to your needs, your feedback is     appreciated: 
+    To help improve and tailor future events to your needs, your feedback is     appreciated:
   </div>
 </div>
 
@@ -75,6 +75,3 @@ Feel free to ask anything; no question is too small or too big. Your curiosity a
 ![](img/qr_code_feedback_form.png)
   </div>
 </div>
-
-
-
