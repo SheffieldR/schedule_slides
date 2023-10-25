@@ -57,12 +57,10 @@ Feel free to ask anything; no question is too small or too big. Your curiosity a
 :::: {.columns}
 ::: {.column width="50%"}
 If you're interested in giving a talk, please fill the following form:
-{{< qrcode
-https://docs.google.com/forms/d/e/1FAIpQLSfjbSGzIHs71YCxD_2knDg126q7m0ywFwF7rspqyVpmZolxpg/viewform?usp=sf_link qr1 width=300 height=300 >}}
+{{< qrcode https://forms.gle/24F7E31nQU7CqaV36 qr1 width=400 height=400 >}}
 :::
 ::: {.column width="50%"}
 To help improve and tailor future events to your needs, your feedback is appreciated:
-{{< qrcode
-https://docs.google.com/forms/d/e/1FAIpQLSfC98qayP3IQD73_gV00GmoVlK-jd1WV8Co1M7FCVBKo4F-tg/viewform?usp=sf_link qr2 width=300 height=300 >}}
+{{< qrcode https://forms.gle/vLuwjLwYG7mNfexv9 qr2 width=400 height=400 >}}
 :::
 ::::
