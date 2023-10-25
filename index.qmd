@@ -55,11 +55,11 @@ Feel free to ask anything; no question is too small or too big. Your curiosity a
 
 :::: {.columns}
 ::: {.column width="50%"}
-If you're interested in giving a talk, please fill the following form:
+Volunteer to talk:
 {{< qrcode https://forms.gle/24F7E31nQU7CqaV36 qr1 width=400 height=400 >}}
 :::
 ::: {.column width="50%"}
-To help improve and tailor future events to your needs, your feedback is appreciated:
+Feedback:
 {{< qrcode https://forms.gle/vLuwjLwYG7mNfexv9 qr2 width=400 height=400 >}}
 :::
 ::::
