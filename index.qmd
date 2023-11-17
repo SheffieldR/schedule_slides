@@ -2,7 +2,7 @@
 title: "SheffieldR"
 # format: revealjs
 author:
-  - name: 2023-10-26
+  - name: 2023-11-20
     # orcid: 0000-0000-0000-0000
     # email: email@address.work
     # affiliations: Employers Name
@@ -17,7 +17,7 @@ format:
     # embed-resources: true
     # standalone: true
 css: style.css
-footer: "**Slides** : [**sheffieldr.github.io/posts/2023-10-26-oct-meetup**](https://sheffieldr.github.io/posts/2023-10-26-oct-meetup/)"
+footer: "[**sheffieldr.github.io/posts/2023-11-20-nov-meetup**](https://sheffieldr.github.io/posts/2023-11-20-nov-meetup/)"
 project:
   preview:
     port: 7864
@@ -25,7 +25,7 @@ project:
     watch-inputs: true
 ---
 
-## SheffieldR Users 2023-10-26
+## SheffieldR Users 2023-11-20
 
 :::: {.columns}
 ::: {.column width="30%"}
@@ -35,9 +35,8 @@ project:
 :::
 ::: {.column width="70%"}
 + **17:30-17:40** Meet and Greet/Networking
-+ **17:40-17:55** _Plotly_ - [Grace Accad](mailto:g.accad@sheffield.ac.uk)
-+ **17:55-18:45** [_Quarto for Slides_](https://ns-rse.github.io/SheffieldR-quarto-for-slides) - [Neil Shephard](mailto:n.shephard@sheffield.ac.uk)
-+ **18:45-19:00** _Q&A_ - ask for help if you've a problem
++ **17:40-18:40** _Shiny for visualising Geographical Information_ [Dr Dan Olner](mailto:d.olner@sheffield.ac.uk)
++ **18:40-19:00** _Open Discussion_
 :::
 ::::
 
@@ -48,7 +47,8 @@ Thank you for attending this session. :pray:
 <br>
 <br>
 <br>
-Feel free to ask anything; no question is too small or too big. Your curiosity and engagement make this session even more valuable. We're eager to assist you.
+Feel free to ask anything; no question is too small or too big. Your curiosity and engagement make this session even
+more valuable. We're eager to assist you.
 
 
 ## Future Meetings and Feedback
