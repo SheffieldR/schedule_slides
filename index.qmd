@@ -2,7 +2,7 @@
 title: "SheffieldR"
 # format: revealjs
 author:
-  - name: 2023-11-20
+  - name: sheffieldr@sheffield.ac.uk
     # orcid: 0000-0000-0000-0000
     # email: email@address.work
     # affiliations: Employers Name
@@ -17,7 +17,7 @@ format:
     # embed-resources: true
     # standalone: true
 css: style.css
-footer: "[**sheffieldr.github.io/posts/2023-11-20-nov-meetup**](https://sheffieldr.github.io/posts/2023-11-20-nov-meetup/)"
+footer: "[**sheffieldr.github.io/posts/2024-01-18-jan-meetup**](https://sheffieldr.github.io/posts/2024-01-18-jan-meetup/)"
 project:
   preview:
     port: 7864
@@ -25,7 +25,7 @@ project:
     watch-inputs: true
 ---
 
-## SheffieldR Users 2023-11-20
+## SheffieldR Users 2024-01-18
 
 :::: {.columns}
 ::: {.column width="30%"}
@@ -34,9 +34,9 @@ project:
 [![](img/OSC_Sheffield.png)](https://osc-international.com/osc-sheffield)
 :::
 ::: {.column width="70%"}
-+ **17:30-17:40** Meet and Greet/Networking
-+ **17:40-18:40** _Shiny for visualising Geographical Information_ [Dr Dan Olner](mailto:d.olner@sheffield.ac.uk)
-+ **18:40-19:00** _Open Discussion_
++ **17:00-17:10** Meet and Greet/Networking
++ **17:10-17:50** _Living HTA : Automating Health Economic Evaluation with R _ [Dr Robert Smith](mailto:robert.smith@sheffield.ac.uk)
++ **17:50-18:30** _Packaging cost-effectiveness models in R : A Tutorial_ [Mr Wael Mohammed](mailto:wmamohammed1@sheffield.ac.uk)
 :::
 ::::
 
@@ -63,3 +63,5 @@ Feedback:
 {{< qrcode https://forms.gle/vLuwjLwYG7mNfexv9 qr2 width=400 height=400 >}}
 :::
 ::::
+
+Email : [sheffieldr@sheffield.ac.uk](mailto:sheffieldr@sheffield.ac.uk)
