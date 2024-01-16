@@ -25,7 +25,7 @@ project:
     watch-inputs: true
 ---
 
-## SheffieldR Users 2023-10-26
+## SheffieldR Users 2024-01-18
 
 :::: {.columns}
 ::: {.column width="30%"}
