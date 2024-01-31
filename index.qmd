@@ -57,10 +57,12 @@ more valuable. We're eager to assist you.
 ::: {.column width="50%"}
 Volunteer to talk:
 {{< qrcode https://forms.gle/24F7E31nQU7CqaV36 qr1 width=400 height=400 >}}
+[https://bit.ly/SheffieldRVolunteer](https://forms.gle/24F7E31nQU7CqaV36)
 :::
 ::: {.column width="50%"}
 Feedback:
 {{< qrcode https://forms.gle/vLuwjLwYG7mNfexv9 qr2 width=400 height=400 >}}
+[https://bit.ly/SheffieldRFeedback](https://forms.gle/vLuwjLwYG7mNfexv9)
 :::
 ::::
 
