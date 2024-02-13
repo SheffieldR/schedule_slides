@@ -2,7 +2,7 @@
 title: "SheffieldR"
 # format: revealjs
 author:
-  - name: 2024-01-18
+  - name: 2024-02-15
     # orcid: 0000-0000-0000-0000
     # email: email@address.work
     # affiliations: Employers Name
@@ -17,7 +17,7 @@ format:
     # embed-resources: true
     # standalone: true
 css: style.css
-footer: "[**sheffieldr.github.io/posts/2024-01-18-jan-meetup**](https://sheffieldr.github.io/posts/2024-01-18-jan-meetup/)"
+footer: "[**sheffieldr.github.io/posts/2024-02-15-feb-meetup**](https://sheffieldr.github.io/posts/2024-02-15/)"
 project:
   preview:
     port: 7864
@@ -25,42 +25,44 @@ project:
     watch-inputs: true
 ---
 
-## SheffieldR Users 2024-01-18
+## SheffieldR Users 2024-02-15
 
-:::: {.columns}
+::: columns
 ::: {.column width="30%"}
 [![](img/SheffieldR_hex.png)](https://sheffield.github.io)
 [![](img/RConsortium.png)](https://www.r-consortium.org/)
 [![](img/OSC_Sheffield.png)](https://osc-international.com/osc-sheffield)
 :::
-::: {.column width="70%"}
-+ **17:00-17:10** Meet and Greet/Networking
-+ **17:10-17:45** Health Economic Evaluation with R without sharing sensitive data
-+ **17:45-18:20** R packaging for cost-effectiveness models
-+ **18:20-18:30** Open Discussion and Q&A
-:::
-::::
 
+::: {.column width="70%"}
+-   **17:30-17:40** Meet and Greet/Networking
+-   **17:40-18:40** Dive into targets
+-   **18:40-18:50** Open Discussion and Q&A
+-   **18:50-19:00** Introducing R Code Clinic
+:::
+:::
 
 ## Q&A
 
-Thank you for attending this session. :pray:
-<br>
-<br>
-<br>
-Feel free to ask anything; no question is too small or too big. Your curiosity and engagement make this session even
-more valuable. We're eager to assist you.
+Thank you for attending this session. :pray: <br> <br> <br> Feel free to
+ask anything; no question is too small or too big. Your curiosity and
+engagement make this session even more valuable. We're eager to assist you.
 
+## R Code Clinic
+
+Sign up: 
+{{< qrcode https://forms.gle/WmGbt4FPye4AAVgQ7 qr width=400 height=400 >}}
 
 ## Future Meetings and Feedback
 
-:::: {.columns}
+::: columns
 ::: {.column width="50%"}
 Volunteer to talk:
 {{< qrcode https://forms.gle/24F7E31nQU7CqaV36 qr1 width=400 height=400 >}}
 :::
+
 ::: {.column width="50%"}
 Feedback:
 {{< qrcode https://forms.gle/vLuwjLwYG7mNfexv9 qr2 width=400 height=400 >}}
 :::
-::::
+:::
