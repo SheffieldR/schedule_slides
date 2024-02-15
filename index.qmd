@@ -28,8 +28,8 @@ project:
 
 ## SheffieldR Users 2024-02-15
 
+:::: {.columns}
 
-::: columns
 ::: {.column width="30%"}
 [![](img/SheffieldR_hex.png)](https://sheffield.github.io)
 [![](img/RConsortium.png)](https://www.r-consortium.org/)
@@ -42,6 +42,7 @@ project:
 -   **18:40-18:50** Open Discussion and Q&A
 -   **18:50-19:00** Introducing R Code Clinic
 :::
+::::
 
 ## Q&A
 
@@ -51,12 +52,12 @@ engagement make this session even more valuable. We're eager to assist you.
 
 ## R Code Clinic
 
-Sign up: 
+Sign up:
 {{< qrcode https://forms.gle/WmGbt4FPye4AAVgQ7 qr width=400 height=400 >}}
 
 ## Future Meetings and Feedback
 
-::: columns
+:::: {.columns}
 ::: {.column width="50%"}
 Volunteer to talk:
 {{< qrcode https://forms.gle/24F7E31nQU7CqaV36 qr1 width=400 height=400 >}}
@@ -69,8 +70,7 @@ Feedback:
 [bit.ly/SheffieldRFeedback](https://forms.gle/vLuwjLwYG7mNfexv9)
 :::
 
-:::
+::::
 
 
 Email : [sheffieldr@sheffield.ac.uk](mailto:sheffieldr@sheffield.ac.uk)
-
