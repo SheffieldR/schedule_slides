@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html#sheffieldr-users-2024-01-18",
-    "href": "index.html#sheffieldr-users-2024-01-18",
+    "objectID": "index.html#sheffieldr-users-2024-02-15",
+    "href": "index.html#sheffieldr-users-2024-02-15",
     "title": "SheffieldR",
-    "section": "SheffieldR Users 2024-01-18",
-    "text": "SheffieldR Users 2024-01-18\n\n\n  \n\n\n17:00-17:10 Meet and Greet/Networking\n17:10-17:50 Living HTA : Automating Health Economic Evaluation with R  Dr Robert Smith\n17:50-18:30 Packaging cost-effectiveness models in R : A Tutorial Mr Wael Mohammed"
+    "section": "SheffieldR Users 2024-02-15",
+    "text": "SheffieldR Users 2024-02-15\n::: columns ::: {.column width=“30%”}    :::\n\n\n17:30-17:40 Meet and Greet/Networking\n17:40-18:40 Dive into targets\n18:40-18:50 Open Discussion and Q&A\n18:50-19:00 Introducing R Code Clinic"
   },
   {
     "objectID": "index.html#qa",
@@ -14,10 +14,17 @@
     "text": "Q&A\nThank you for attending this session. 🙏    Feel free to ask anything; no question is too small or too big. Your curiosity and engagement make this session even more valuable. We’re eager to assist you."
   },
   {
+    "objectID": "index.html#r-code-clinic",
+    "href": "index.html#r-code-clinic",
+    "title": "SheffieldR",
+    "section": "R Code Clinic",
+    "text": "R Code Clinic\nSign up:"
+  },
+  {
     "objectID": "index.html#future-meetings-and-feedback",
     "href": "index.html#future-meetings-and-feedback",
     "title": "SheffieldR",
     "section": "Future Meetings and Feedback",
-    "text": "Future Meetings and Feedback\n\n\nVolunteer to talk:\n\n\n    \nbit.ly/SheffieldRVolunteer\n\nFeedback:\n\n\n    \nbit.ly/SheffieldRFeedback\n\n\nEmail : sheffieldr@sheffield.ac.uk\n\n\n\nsheffieldr.github.io/posts/2024-01-18-jan-meetup"
+    "text": "Future Meetings and Feedback\n\n\nVolunteer to talk:\n\n\n    \nbit.ly/SheffieldRVolunteer\n\nFeedback:\n\n\n    \nbit.ly/SheffieldRFeedback\n\n\nEmail : sheffieldr@sheffield.ac.uk\n\n\n\nsheffieldr.github.io/posts/2024-02-15-feb-meetup"
   }
 ]
