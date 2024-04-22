@@ -17,7 +17,7 @@ format:
     # embed-resources: true
     # standalone: true
 css: style.css
-footer: "[**sheffieldr.github.io/posts/2024-02-15-feb-meetup**](https://sheffieldr.github.io/posts/2024-02-15/)"
+footer: "[**sheffieldr.github.io/posts/2024-04-22-april-meetup**](https://sheffieldr.github.io/posts/2024-04-22-april-meetup/)"
 project:
   preview:
     port: 7864
@@ -26,7 +26,7 @@ project:
 ---
 
 
-## SheffieldR Users 2024-02-15
+## SheffieldR Users 2024-04-22
 
 :::: {.columns}
 
@@ -37,10 +37,10 @@ project:
 :::
 
 ::: {.column width="70%"}
--   **17:30-17:40** Meet and Greet/Networking
--   **17:40-18:40** Dive into targets
--   **18:40-18:50** Open Discussion and Q&A
--   **18:50-19:00** Introducing R Code Clinic
+-   **12:00-12:10** Meet and Greet/Networking
+-   **12:10-1:00** Profiling and optimising your R code
+-   **1:00-1:20** R Strategies for Health Data Pipelines
+
 :::
 ::::
 
@@ -50,10 +50,6 @@ Thank you for attending this session. :pray: <br> <br> <br> Feel free to
 ask anything; no question is too small or too big. Your curiosity and
 engagement make this session even more valuable. We're eager to assist you.
 
-## R Code Clinic
-
-Sign up:
-{{< qrcode https://forms.gle/WmGbt4FPye4AAVgQ7 qr width=400 height=400 >}}
 
 ## Future Meetings and Feedback
 
