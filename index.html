@@ -9,7 +9,7 @@
 <link href="site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/quarto-contrib/qrcodejs-v1.0.0/qrcode.js"></script><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.550">
+  <meta name="generator" content="quarto-1.4.553">
 
   <meta name="author" content="sheffieldr@sheffield.ac.uk">
   <title>Sheffield R User Group Schedule - SheffieldR</title>
@@ -341,17 +341,16 @@ sheffieldr@sheffield.ac.uk
 </div>
 
 </section>
-<section id="sheffieldr-users-2024-02-15" class="slide level2">
-<h2>SheffieldR Users 2024-02-15</h2>
+<section id="sheffieldr-users-2024-04-22" class="slide level2">
+<h2>SheffieldR Users 2024-04-22</h2>
 <div class="columns">
 <div class="column" style="width:30%;">
 <p><a href="https://sheffield.github.io"><img data-src="img/SheffieldR_hex.png"></a> <a href="https://www.r-consortium.org/"><img data-src="img/RConsortium.png"></a> <a href="https://osc-international.com/osc-sheffield"><img data-src="img/OSC_Sheffield.png"></a></p>
 </div><div class="column" style="width:70%;">
 <ul>
-<li><strong>17:30-17:40</strong> Meet and Greet/Networking</li>
-<li><strong>17:40-18:40</strong> Dive into targets</li>
-<li><strong>18:40-18:50</strong> Open Discussion and Q&amp;A</li>
-<li><strong>18:50-19:00</strong> Introducing R Code Clinic</li>
+<li><strong>12:00-12:10</strong> Meet and Greet/Networking</li>
+<li><strong>12:10-1:00</strong> Profiling and optimising your R code</li>
+<li><strong>1:00-1:20</strong> R Strategies for Health Data Pipelines</li>
 </ul>
 </div>
 </div>
@@ -360,15 +359,6 @@ sheffieldr@sheffield.ac.uk
 <h2>Q&amp;A</h2>
 <p>Thank you for attending this session. <span class="emoji" data-emoji="pray">🙏</span> <br> <br> <br> Feel free to ask anything; no question is too small or too big. Your curiosity and engagement make this session even more valuable. We’re eager to assist you.</p>
 </section>
-<section id="r-code-clinic" class="slide level2">
-<h2>R Code Clinic</h2>
-<p>Sign up:</p>
-<div id="qr" class="qrcode"></div>
-<script type="text/javascript">
-var qrcode = new QRCode("qr", {"colorDark":"#000000","width":"400","colorLight":"#ffffff","height":"400","text":"https://forms.gle/WmGbt4FPye4AAVgQ7"});
-</script>
-    
-</section>
 <section id="future-meetings-and-feedback" class="slide level2">
 <h2>Future Meetings and Feedback</h2>
 <div class="columns">
@@ -376,7 +366,7 @@ var qrcode = new QRCode("qr", {"colorDark":"#000000","width":"400","colorLight":
 <p>Volunteer to talk:</p>
 <div id="qr1" class="qrcode"></div>
 <script type="text/javascript">
-var qrcode = new QRCode("qr1", {"colorDark":"#000000","width":"400","colorLight":"#ffffff","height":"400","text":"https://forms.gle/24F7E31nQU7CqaV36"});
+var qrcode = new QRCode("qr1", {"colorDark":"#000000","colorLight":"#ffffff","width":"400","text":"https://forms.gle/24F7E31nQU7CqaV36","height":"400"});
 </script>
     
 <p><a href="https://forms.gle/24F7E31nQU7CqaV36">bit.ly/SheffieldRVolunteer</a></p>
@@ -384,7 +374,7 @@ var qrcode = new QRCode("qr1", {"colorDark":"#000000","width":"400","colorLight"
 <p>Feedback:</p>
 <div id="qr2" class="qrcode"></div>
 <script type="text/javascript">
-var qrcode = new QRCode("qr2", {"colorDark":"#000000","width":"400","colorLight":"#ffffff","height":"400","text":"https://forms.gle/vLuwjLwYG7mNfexv9"});
+var qrcode = new QRCode("qr2", {"colorDark":"#000000","colorLight":"#ffffff","width":"400","text":"https://forms.gle/vLuwjLwYG7mNfexv9","height":"400"});
 </script>
     
 <p><a href="https://forms.gle/vLuwjLwYG7mNfexv9">bit.ly/SheffieldRFeedback</a></p>
@@ -394,7 +384,7 @@ var qrcode = new QRCode("qr2", {"colorDark":"#000000","width":"400","colorLight"
 
 <div class="quarto-auto-generated-content">
 <div class="footer footer-default">
-<p><a href="https://sheffieldr.github.io/posts/2024-02-15/"><strong>sheffieldr.github.io/posts/2024-02-15-feb-meetup</strong></a></p>
+<p><a href="https://sheffieldr.github.io/posts/2024-04-22-april-meetup/"><strong>sheffieldr.github.io/posts/2024-04-22-april-meetup</strong></a></p>
 </div>
 </div>
 </section>
@@ -686,6 +676,24 @@ var qrcode = new QRCode("qr2", {"colorDark":"#000000","width":"400","colorLight"
         // clear code selection
         e.clearSelection();
       });
+        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
+          var filterRegex = new RegExp("https:\/\/sheffieldr\.github\.io\/schedule_slides");
+        var isInternal = (href) => {
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+        }
+        // Inspect non-navigation links and adorn them if external
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+        for (var i=0; i<links.length; i++) {
+          const link = links[i];
+          if (!isInternal(link.href)) {
+            // undo the damage that might have been done by quarto-nav.js in the case of
+            // links that we want to consider external
+            if (link.dataset.originalHref !== undefined) {
+              link.href = link.dataset.originalHref;
+            }
+          }
+        }
       function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
         const config = {
           allowHTML: true,
@@ -722,7 +730,11 @@ var qrcode = new QRCode("qr2", {"colorDark":"#000000","width":"400","colorLight"
           try { href = new URL(href).hash; } catch {}
           const id = href.replace(/^#\/?/, "");
           const note = window.document.getElementById(id);
-          return note.innerHTML;
+          if (note) {
+            return note.innerHTML;
+          } else {
+            return "";
+          }
         });
       }
       const findCites = (el) => {
