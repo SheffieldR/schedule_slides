@@ -1,5 +1,6 @@
 ---
 title: "SheffieldR"
+subtitle: "Lightning Talks"
 # format: revealjs
 author:
   - name: sheffieldr@sheffield.ac.uk
@@ -14,8 +15,11 @@ format:
     show-slide-number: speaker
     auto-stretch: false
     chalkboard: true
+    font-color: white
+    theme: [default, custom.scss]
     # embed-resources: true
     # standalone: true
+    background-image: https://apod.nasa.gov/apod/image/1912/ElectricMilkyWay_Pedretti_1920.jpg
 css: style.css
 footer: "[**sheffieldr.github.io/posts/2024-02-15-feb-meetup**](https://sheffieldr.github.io/posts/2024-02-15/)"
 project:
@@ -24,7 +28,6 @@ project:
     host: localhost
     watch-inputs: true
 ---
-
 
 ## SheffieldR Users 2024-02-15
 
@@ -37,12 +40,22 @@ project:
 :::
 
 ::: {.column width="70%"}
--   **17:30-17:40** Meet and Greet/Networking
--   **17:40-18:40** Dive into targets
--   **18:40-18:50** Open Discussion and Q&A
--   **18:50-19:00** Introducing R Code Clinic
+
+- **17:30-17:40** Meet and Greet/Networking
+- **16:40-17:30** Lightning Talks
+- **17-30-** Adjourn to The University Arms
 :::
 ::::
+
+## Lightning Talks
+
+- [No Data, No Worries](https://blog.nshephard.dev/sheffieldr-fabricatr-20240621/#/title-slide) - Neil Shephard
+- [Running R Scripts on GitHub Actions]() - Simon Rolph
+- [Detecting changes in Population Trends in near real-time using R]() - Emma Pritchard
+- [Survival Analysis - BITsurv package]() - Ben
+- [Decomposing small data sets with autodb]()
+- [A Package in Development for ROpenSci Champion Program]()
+- [Using Quarto to Create Acessible, Engaging Teaching Material]() - Sophie Lee
 
 ## Q&A
 
