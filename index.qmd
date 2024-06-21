@@ -21,7 +21,7 @@ format:
     # standalone: true
     background-image: https://apod.nasa.gov/apod/image/1912/ElectricMilkyWay_Pedretti_1920.jpg
 css: style.css
-footer: "[**sheffieldr.github.io/posts/2024-02-15-feb-meetup**](https://sheffieldr.github.io/posts/2024-02-15/)"
+footer: "[**sheffieldr.github.io/posts/2024-04-22-april-meetup**](https://sheffieldr.github.io/posts/2024-04-22-april-meetup/)"
 project:
   preview:
     port: 7864
@@ -63,10 +63,6 @@ Thank you for attending this session. :pray: <br> <br> <br> Feel free to
 ask anything; no question is too small or too big. Your curiosity and
 engagement make this session even more valuable. We're eager to assist you.
 
-## R Code Clinic
-
-Sign up:
-{{< qrcode https://forms.gle/WmGbt4FPye4AAVgQ7 qr width=400 height=400 >}}
 
 ## Future Meetings and Feedback
 
