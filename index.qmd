@@ -53,9 +53,11 @@ project:
 - [Running R Scripts on GitHub Actions]() - Simon Rolph
 - [Detecting changes in Population Trends in near real-time using R]() - Emma Pritchard
 - [Survival Analysis - BITsurv package]() - Ben
-- [Decomposing small data sets with autodb]()
-- [A Package in Development for ROpenSci Champion Program]()
-- [Using Quarto to Create Acessible, Engaging Teaching Material]() - Sophie Lee
+- [Decomposing small data sets with autodb]() - Mark Webster
+- [A Package in Development for ROpenSci Champion
+  Program](https://docs.google.com/presentation/d/1Rezr-3zMcm4gU0H1jHjR0EXVx6c1XbwVkrnNbhO4uKU/edit#slide=id.p) - Erika Siregar
+- [Using Quarto to Create Acessible, Engaging Teaching
+  Material](https://docs.google.com/presentation/d/1b4M7KZZmSyNMQ6spPFALqEXvXTu2jkUTUzqh3JAsUVI/edit?usp=sharing) - Sophie Lee
 
 ## Q&A
 
