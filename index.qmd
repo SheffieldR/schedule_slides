@@ -29,7 +29,7 @@ project:
     watch-inputs: true
 ---
 
-## SheffieldR Users 2024-02-15
+## SheffieldR Users 2024-06-21
 
 :::: {.columns}
 
