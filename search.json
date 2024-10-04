@@ -4,14 +4,35 @@
     "href": "index.html#sheffieldr-users-2024-06-21",
     "title": "SheffieldR",
     "section": "SheffieldR Users 2024-06-21",
-    "text": "SheffieldR Users 2024-06-21\n\n\n  \n\n\n17:30-17:40 Meet and Greet/Networking\n16:40-17:30 Lightning Talks\n17-30- Adjourn to The University Arms"
+    "text": "SheffieldR Users 2024-06-21\n\n\n  \n\n\n17:00-17:10 Meet and Greet, Setup\n17:10-17:15 Hacktoberfest Overview\n17:15-18:00 Git Forking and Pull Requests\n18:00-18:30 Finding Issues"
   },
   {
-    "objectID": "index.html#lightning-talks",
-    "href": "index.html#lightning-talks",
+    "objectID": "index.html#hacktoberfest",
+    "href": "index.html#hacktoberfest",
     "title": "SheffieldR",
-    "section": "Lightning Talks",
-    "text": "Lightning Talks\n\nNo Data, No Worries - Neil Shephard\nRunning R Scripts on GitHub Actions - Simon Rolph\nDetecting changes in Population Trends in near real-time using R - Emma Pritchard\nSurvival Analysis - BITsurv package - Ben\nDecomposing small data sets with autodb\nA Package in Development for ROpenSci Champion Program\nUsing Quarto to Create Acessible, Engaging Teaching Material - Sophie Lee"
+    "section": "Hacktoberfest",
+    "text": "Hacktoberfest\n\n\nPre-requisites\n\nAccount on github.com / gitlab.com\nRegister/link account 👉\nGit (comes with RStudio)\nIssues…"
+  },
+  {
+    "objectID": "index.html#git-forking-and-pull-requests",
+    "href": "index.html#git-forking-and-pull-requests",
+    "title": "SheffieldR",
+    "section": "Git Forking and Pull Requests",
+    "text": "Git Forking and Pull Requests\n\nUsing material from Git & GitHub Through GitKraken - From Zero to Hero\ngithub.com/RSE-Sheffield/collaborative_GitHub_exercise"
+  },
+  {
+    "objectID": "index.html#hacktoberfest-issues",
+    "href": "index.html#hacktoberfest-issues",
+    "title": "SheffieldR",
+    "section": "Hacktoberfest Issues",
+    "text": "Hacktoberfest Issues\nFilter for tags documentation and good first issue\n\n\nGitLab\ngitlab.com/explore/projects/topics/hacktoberfest\n\n\n    \n\nGitHub\n\n\n    \ngithub.com/topics/hacktoberfest"
+  },
+  {
+    "objectID": "index.html#hacktoberfest-r-issues",
+    "href": "index.html#hacktoberfest-r-issues",
+    "title": "SheffieldR",
+    "section": "Hacktoberfest R Issues",
+    "text": "Hacktoberfest R Issues\nFilter for tags documentation and good first issue\n\n\nR Universe / Base R\n\nr-universe-org\nR Dev Day (see also R Contributor Site)\n\n\nMiscellaneous\n\ntinytable\ngtsummary\n\n\nTidyverse\n\nTidyverse\nggplot2\ndplyr\n\n\nR-lib\n\nlintr\ntestthat\nusethis"
   },
   {
     "objectID": "index.html#qa",
@@ -25,6 +46,6 @@
     "href": "index.html#future-meetings-and-feedback",
     "title": "SheffieldR",
     "section": "Future Meetings and Feedback",
-    "text": "Future Meetings and Feedback\n\n\nVolunteer to talk:\n\n\n    \nbit.ly/SheffieldRVolunteer\n\nFeedback:\n\n\n    \nbit.ly/SheffieldRFeedback\n\n\nEmail : sheffieldr@sheffield.ac.uk\n\n\n\nsheffieldr.github.io/posts/2024-04-22-april-meetup"
+    "text": "Future Meetings and Feedback\n\n\nVolunteer to talk:\n\n\n    \nbit.ly/SheffieldRVolunteer\n\nFeedback:\n\n\n    \nbit.ly/SheffieldRFeedback\n\nEmail : sheffieldr@sheffield.ac.uk\n\n\n\nsheffieldr.github.io/posts/2024-10"
   }
 ]
