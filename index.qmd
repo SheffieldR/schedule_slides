@@ -1,6 +1,6 @@
 ---
 title: "SheffieldR"
-subtitle: "Lightning Talks"
+subtitle: "Hacktoberfest 2024"
 # format: revealjs
 author:
   - name: sheffieldr@sheffield.ac.uk
@@ -21,7 +21,7 @@ format:
     # standalone: true
     background-image: https://apod.nasa.gov/apod/image/1912/ElectricMilkyWay_Pedretti_1920.jpg
 css: style.css
-footer: "[**sheffieldr.github.io/posts/2024-04-22-april-meetup**](https://sheffieldr.github.io/posts/2024-04-22-april-meetup/)"
+footer: "[**sheffieldr.github.io/posts/2024-10**](https://sheffieldr.github.io/posts/2024-10/)"
 project:
   preview:
     port: 7864
@@ -34,28 +34,123 @@ project:
 :::: {.columns}
 
 ::: {.column width="30%"}
-[![](img/SheffieldR_hex.png)](https://sheffield.github.io)
+[![](img/SheffieldRLogo_hex_big.png)](https://sheffield.github.io)
 [![](img/RConsortium.png)](https://www.r-consortium.org/)
 [![](img/OSC_Sheffield.png)](https://osc-international.com/osc-sheffield)
+
 :::
 
 ::: {.column width="70%"}
 
-- **17:30-17:40** Meet and Greet/Networking
-- **16:40-17:30** Lightning Talks
-- **17-30-** Adjourn to The University Arms
+- **17:00-17:10** Meet and Greet, Setup
+- **17:10-17:15** Hacktoberfest Overview
+- **17:15-18:00** Git Forking and Pull Requests
+- **18:00-18:30** Finding Issues
+
+{{< qrcode https://sheffielder.github.io/schedule_slides qr1 width=200 height=200 >}}
+
 :::
 ::::
 
-## Lightning Talks
+## Hacktoberfest
 
-- [No Data, No Worries](https://blog.nshephard.dev/sheffieldr-fabricatr-20240621/#/title-slide) - Neil Shephard
-- [Running R Scripts on GitHub Actions]() - Simon Rolph
-- [Detecting changes in Population Trends in near real-time using R]() - Emma Pritchard
-- [Survival Analysis - BITsurv package]() - Ben
-- [Decomposing small data sets with autodb]()
-- [A Package in Development for ROpenSci Champion Program]()
-- [Using Quarto to Create Acessible, Engaging Teaching Material]() - Sophie Lee
+:::: {.columns}
+
+::: {.column width="50%"}
+
+**Pre-requisites**
+
+- Account on [github.com](https://github.com) / [gitlab.com](https://gitlab.com)
+- Register/link account :point_right:
+- Git (comes with [RStudio](https://posit.co/downloads/))
+- Issues...
+
+:::
+
+::: {.column width="50%"}
+
+{{< qrcode https://hacktoberfest.com/ qr2  width=300 height=300 >}}
+
+
+:::
+
+::::
+
+## Hacktoberfest Issues
+
+**Filter for tags `documentation` and `good first issue`**
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+### GitLab
+
+[gitlab.com/explore/projects/topics/hacktoberfest](https://gitlab.com/explore/projects/topics/hacktoberfest)
+
+{{< qrcode https://gitlab.com/explore/projects/topics/hacktoberfest gitlab width=200 height=200 >}}
+
+
+:::
+
+::: {.column width="50%"}
+
+### GitHub
+
+{{< qrcode https://github.com/topics/hacktoberfest github width=200 height=200 >}}
+
+ [github.com/topics/hacktoberfest](https://github.com/topics/hacktoberfest)
+
+:::
+
+::::
+
+## Hacktoberfest R Issues
+
+**Filter for tags `documentation` and `good first issue`**
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+#### R Universe / Base R
+
+- [r-universe-org](https://github.com/r-universe-org/help/issues)
+- [R Dev Day](https://github.com/r-devel/r-dev-day/issues) (see also [R Contributor
+  Site](https://contributor.r-project.org/))
+
+:::
+
+::: {.column width="25%"}
+
+#### Miscellaneous
+
+- [tinytable](https://github.com/vincentarelbundock/tinytable/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen)
+- [gtsummary](https://github.com/ddsjoberg/gtsummary/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen)
+
+:::
+
+::: {.column width="25%"}
+
+### [Tidyverse](https://github.com/tidyverse)
+
+- [Tidyverse](https://github.com/tidyverse/tidyverse/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen)
+- [ggplot2](https://github.com/tidyverse/ggplot2/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen)
+- [dplyr](https://github.com/tidyverse/dplyr/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen)
+
+:::
+
+::: {.column width="25%"}
+
+### [R-lib](https://github.com/r-lib/)
+
+- [lintr](https://github.com/r-lib/lintr/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen)
+- [testthat](https://github.com/r-lib/testthat/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen)
+- [usethis](https://github.com/r-lib/usethis/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen)
+
+:::
+
+::::
 
 ## Q&A
 
@@ -69,13 +164,13 @@ engagement make this session even more valuable. We're eager to assist you.
 :::: {.columns}
 ::: {.column width="50%"}
 Volunteer to talk:
-{{< qrcode https://forms.gle/24F7E31nQU7CqaV36 qr1 width=400 height=400 >}}
+{{< qrcode https://forms.gle/24F7E31nQU7CqaV36 qr3 width=400 height=400 >}}
 [bit.ly/SheffieldRVolunteer](https://forms.gle/24F7E31nQU7CqaV36)
 :::
 
 ::: {.column width="50%"}
 Feedback:
-{{< qrcode https://forms.gle/vLuwjLwYG7mNfexv9 qr2 width=400 height=400 >}}
+{{< qrcode https://forms.gle/vLuwjLwYG7mNfexv9 qr4 width=400 height=400 >}}
 [bit.ly/SheffieldRFeedback](https://forms.gle/vLuwjLwYG7mNfexv9)
 :::
 
