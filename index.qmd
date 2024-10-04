@@ -76,6 +76,13 @@ project:
 
 ::::
 
+## Git Forking and Pull Requests
+
+- Using material from [Git & GitHub Through GitKraken - From Zero to
+  Hero](https://srse-git-github-zero2hero.netlify.app/)
+- [github.com/RSE-Sheffield/collaborative_GitHub_exercise](https://github.com/RSE-Sheffield/collaborative_GitHub_exercise)
+
+
 ## Hacktoberfest Issues
 
 **Filter for tags `documentation` and `good first issue`**
