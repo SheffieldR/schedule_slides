@@ -87,13 +87,17 @@ project:
 
 **Filter for tags `documentation` and `good first issue`**
 
++ [gitlab.com/explore/projects/topics/hacktoberfest](https://gitlab.com/explore/projects/topics/hacktoberfest)
++ [github.com/topics/hacktoberfest](https://github.com/topics/hacktoberfest)
+
+
 :::: {.columns}
 
 ::: {.column width="50%"}
 
 ### GitLab
 
-[gitlab.com/explore/projects/topics/hacktoberfest](https://gitlab.com/explore/projects/topics/hacktoberfest)
+
 
 {{< qrcode https://gitlab.com/explore/projects/topics/hacktoberfest gitlab width=200 height=200 >}}
 
@@ -106,7 +110,6 @@ project:
 
 {{< qrcode https://github.com/topics/hacktoberfest github width=200 height=200 >}}
 
- [github.com/topics/hacktoberfest](https://github.com/topics/hacktoberfest)
 
 :::
 
